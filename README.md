@@ -1,11 +1,8 @@
-# devdiggers-assignments-galibshaheed
-# DevDiggers WordPress/WooCommerce Developer Assignment
-**Submitted by:** Galib Shaheed  
-**Assignments:** Plugin Development (WooCommerce)
 
+# DevDiggers WordPress/WooCommerce Developer
 ---
 
-## 🧩 Assignment 1 – Conditional Accessories Discount Plugin
+##  – Conditional Accessories Discount Plugin
 
 **Description:**  
 Applies a 15% discount automatically when the cart has:
